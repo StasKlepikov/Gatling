@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.BearerAuthorizationSimulation",
+  "simulationId": "bearerauthorizationsimulation",
+  "start": 1640185702479,
+  "description": "",
+  "scenarios": ["Bearer authorization"],
+  "assertions": [
+
+  ]
+}
